@@ -1,0 +1,7 @@
+{
+  "label": "Custom Store Components",
+  "link": {
+    "type": "generated-index",
+    "description": "Aplicativo que se encarga de crear componentes personalizados para Coolbox Store, se instancia desde el aplicativo store-theme. Actualmente se utiliza ReactJS para crear dichos componentes; se tiene como opción JavaScript o TypeScript."
+  }
+}
