@@ -1,5 +1,5 @@
 ---
-title: CarouselProducts
+title: Carousel Products
 description: Carrusel de Productos personalizado.
 authors:
   name: Renzo García
